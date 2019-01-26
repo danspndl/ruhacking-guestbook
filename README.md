@@ -23,18 +23,18 @@ Name this file **yourname.yaml**. Then paste the bellow template into your file 
 
 ```
 ---
-name: Pandelis
-image: https://avatar.tobi.sh/tobiaslins.svg?text=PZ
-emoji: 🐼
+name: Dan
+image: https://github.com/sdaniel55.png
+emoji: 🦔
 message: Hey! I hope you're enjoying the workshop.
-twitter: PandelisZ
-github: PandelisZ
+twitter: sdaniel55
+github: sdaniel55
 ---
 ```
 
 ![fork](.github/images/createfile.gif)
 
-> If you don't wish to use a photo of yourself leve the placeholder image and add your initials as `?text=PZ` for example.
+> If you don't wish to use a photo of yourself leve the placeholder image and add your initials as `?text=DS` for example.
 
 > You can find your favorite emoji at [emojipedia.org](https://emojipedia.org/) and paste it into the emoji field
 

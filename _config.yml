@@ -6,5 +6,5 @@ collections:
   - guestbook
 
 workshop:
-  name: 
-  github: https://github.com/PandelisZ/workshop-guestbook
+  name: Get Started with Git & GitHub
+  github: https://github.com/sdaniel55/ce-manmethacks-guestbook
