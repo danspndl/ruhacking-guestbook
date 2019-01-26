@@ -24,7 +24,7 @@ Name this file **yourname.yaml**. Then paste the bellow template into your file 
 ```
 ---
 name: Dan
-image: https://github.com/sdaniel55.png
+image: https://avatar.tobi.sh/tobiaslins.svg?text=DS
 emoji: 🦔
 message: Hey! I hope you're enjoying the workshop.
 twitter: sdaniel55
