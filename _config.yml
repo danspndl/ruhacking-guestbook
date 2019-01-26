@@ -1,3 +1,6 @@
+include:
+  - images
+
 exclude:
   - .github
   - vendor
