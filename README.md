@@ -46,7 +46,7 @@ Commit messages should be short and descriptive so that others can tell what you
 ![commit](.github/images/commit.gif)
 
 
-### Submitting a pull requst
+### Submitting a pull request
 
 Now that you have made your desired changes to the repo you can submit them **upstream** (the original repository). The way we do this within the [GitHub flow](https://guides.github.com/introduction/flow/) is by creating a pull request on the upstream repository. In this case the upstream repository is the original repository you 
 forked. This is shown on your repo as **forked from:** at the top of the repository page.
@@ -61,3 +61,8 @@ your fork you can click on *compare across forks*. Then create the pull reqeust
 
 You've sucessfully creted a pull request! You're changes will now have to be reviewed. If you're filled out your details correctly your pull request will be approved and you will show up on the 
 guestbook.
+
+
+### Credits :sparkling_heart:
+
+Thanks to [@PandelisZ](https://github.com/PandelisZ) for making this guestbook
